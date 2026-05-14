@@ -465,6 +465,8 @@
 #es-rc #es-rc-content .es-steps__steps__item__image {
   margin-bottom: 10px;
   max-width: 250px;
+  min-width: 190px;
+  min-height: 190px;
 }
 
 @container es-rc-content (min-width:660px) {
@@ -483,7 +485,7 @@
     column-gap: 40px;
   }
   #es-rc #es-rc-content .es-steps__steps__item {
-    max-width: 190px;
+    max-width: 185px;
   }
 }
 
