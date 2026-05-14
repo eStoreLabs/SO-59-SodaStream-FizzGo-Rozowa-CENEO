@@ -532,20 +532,18 @@
 }
 
 #es-rc #es-rc-content .es-style__img {
-  max-width: 64%;
+  max-width: 60%;
   margin-left: 2px;
 }
 
 #es-rc #es-rc-content .es-style__left {
-  /* max-width: 310px; */
+  max-width: 310px;
   margin: 0 auto;
-  /* margin-left: 0; */
 }
 
 #es-rc #es-rc-content .es-style__inner {
-  max-width: 310px;
+  max-width: 350px;
   margin: 0 auto;
-  margin-left: 0;
   position: relative;
   margin-bottom: 20px;
 }
@@ -737,7 +735,7 @@
 
 @media screen and (min-width: 550px) {
   #es-rc #es-rc-content .es-style__img {
-    max-width: 85%;
+    max-width: 80%;
   }
   #es-rc #es-rc-content .es-style__wrapper {
     right: -155px;
@@ -747,7 +745,6 @@
   }
   #es-rc #es-rc-content .es-style__img {
     margin-left: -5px;
-    max-width: 263px;
   }
 }
 
@@ -757,25 +754,6 @@
   }
   #es-rc #es-rc-content .es-footer {
     padding: 50px 15px 55px;
-  }
-
-  #es-rc #es-rc-content .es-style__img-description {
-    padding-left: 36px;
-    max-width: 300px;
-    font-size: 16px;
-    margin-left: -80px;
-    margin-bottom: 20px;
-    align-self: flex-end;
-    text-align: left;
-  }
-  #es-rc #es-rc-content .es-style__left {
-    display: flex;
-    flex-flow: row;
-    max-width: 750px;
-    margin-left: 0;
-  }
-  #es-rc #es-rc-content .es-style__wrapper {
-    right: -200px;
   }
 }
 
@@ -1020,7 +998,7 @@
   }
   #es-rc #es-rc-content .es-style__inner {
     max-width: 67%;
-    margin-left: 30px;
+    margin-left: -10px;
   }
   #es-rc #es-rc-content .es-style__img {
     max-width: 516px;
@@ -1029,7 +1007,7 @@
   }
   #es-rc #es-rc-content .es-style__img-description {
     padding-left: 36px;
-    max-width: 300px;
+    max-width: 350px;
     margin-left: -80px;
     margin-bottom: 20px;
     align-self: flex-end;
@@ -1041,7 +1019,7 @@
   }
   #es-rc #es-rc-content .es-style__wrapper {
     top: 5%;
-    right: -41.5%;
+    right: -45.5%;
   }
   #es-rc #es-rc-content .es-style__img-title-group {
     margin-right: revert;
@@ -1230,12 +1208,7 @@
     top: 88%;
     left: 20%;
   }
-  #es-rc #es-rc-content .es-style__img-description {
-    max-width: 400px;
-  }
-  #es-rc #es-rc-content .es-style__left {
-    max-width: 800px;
-  }
+
   #es-rc #es-rc-content .es-style__wrapper {
     top: 5%;
     right: -45.5%;
@@ -1463,7 +1436,7 @@
     font-size: 18px;
   }
   #es-rc #es-rc-content .es-style__inner {
-    max-width: 47%;
+    max-width: 67%;
   }
   #es-rc #es-rc-content .es-style__left {
     max-width: revert;
@@ -1492,7 +1465,7 @@
   }
   #es-rc #es-rc-content .es-style__img-description {
     padding-left: 15px;
-    margin-bottom: 155px;
+    margin-bottom: 50px;
     margin-left: -80px;
     font-size: 24px;
     max-width: 500px;
