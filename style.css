@@ -167,7 +167,7 @@
   margin: 0 auto;
   background: #81224d;
   color: #fff;
-  font-size: 20px;
+  font-size: 17px;
   border-radius: 50%;
   width: 180px;
   height: 180px;
@@ -176,7 +176,7 @@
 
 #es-rc #es-rc-content .es-kv__title-circle span {
   display: block;
-  padding-top: 13px;
+  padding-top: 10px;
   font-size: 36px;
   font-weight: 700;
 }
@@ -834,7 +834,7 @@
   #es-rc #es-rc-content .es-kv__packshot {
     position: absolute;
     top: -160px;
-    right: -30.5%;
+    right: -26.5%;
   }
   #es-rc #es-rc-content .es-kv__title-circle--desktop {
     display: block;
@@ -887,7 +887,7 @@
   #es-rc #es-rc-content .es-kv__packshot {
     position: absolute;
     top: -190px;
-    right: -30.5%;
+    right: -26.5%;
   }
   #es-rc #es-rc-content .es-style__img-title {
     left: 55%;
@@ -950,7 +950,7 @@
   #es-rc #es-rc-content .es-design__single-subtitle--1 {
     position: absolute;
     top: 18%;
-    left: 16%;
+    left: 14%;
   }
   #es-rc #es-rc-content .es-design__single-subtitle--2 {
     position: absolute;
@@ -1144,7 +1144,7 @@
   #es-rc #es-rc-content .es-design__single-subtitle--1 {
     position: absolute;
     top: 18%;
-    left: 17%;
+    left: 14%;
   }
   #es-rc #es-rc-content .es-design__single-subtitle--2 {
     position: absolute;
@@ -1174,7 +1174,7 @@
   #es-rc #es-rc-content .es-design__single-subtitle--1 {
     position: absolute;
     top: 18%;
-    left: 18%;
+    left: 14%;
   }
   #es-rc #es-rc-content .es-design__single-subtitle--2 {
     position: absolute;
@@ -1204,7 +1204,7 @@
   #es-rc #es-rc-content .es-design__single-subtitle--1 {
     position: absolute;
     top: 18%;
-    left: 19%;
+    left: 17%;
   }
   #es-rc #es-rc-content .es-design__single-subtitle--2 {
     position: absolute;
@@ -1244,7 +1244,7 @@
   #es-rc #es-rc-content .es-design__single-subtitle--1 {
     position: absolute;
     top: 18%;
-    left: 20%;
+    left: 18%;
   }
   #es-rc #es-rc-content .es-design__single-subtitle--2 {
     position: absolute;
@@ -1274,13 +1274,16 @@
   #es-rc #es-rc-content .es-footer {
     padding: 300px 15px 55px;
   }
+  #es-rc #es-rc-content .es-kv__packshot {
+    right: -12.5%;
+  }
 }
 
 @media screen and (min-width: 1050px) {
   #es-rc #es-rc-content .es-design__single-subtitle--1 {
     position: absolute;
     top: 18%;
-    left: 21%;
+    left: 19%;
   }
   #es-rc #es-rc-content .es-design__single-subtitle--2 {
     position: absolute;
